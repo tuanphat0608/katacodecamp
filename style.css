@@ -1,0 +1,36 @@
+ul li img {
+    align-content: center;
+    width: 100%;
+}
+li.logo {
+    width: 85.64px;}
+
+a {
+    width: 85.64px;
+}
+a.nav-link{
+    color: grey;
+    text-decoration: none;
+}
+#banner{
+    background: url(banner.png);
+    align-content: center;
+    background-size: cover;
+    height: 60vh;
+    margin-top: 5%;
+}
+#colum2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+#colum1{
+    margin-right: -17px;
+    margin-left: 16px;
+
+}
+
+div.container2{
+    justify-content: center;
+}
